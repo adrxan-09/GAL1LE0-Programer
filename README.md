@@ -2,7 +2,7 @@
 
 <h4>I work in my Personal Enterprise Singology (Creative Logy)<h4>
 
-
+ 
 ### A little more about me...  
 
 ```javascript
