@@ -54,4 +54,4 @@ Linux                    1 hrs 15 mins       █░░░░░░░░░░�
 <!--END_SECTION:waka-->
   
   
-  Thank you and have a great day!
+  ##Thank you and have a great day!
