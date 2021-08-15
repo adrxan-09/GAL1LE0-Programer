@@ -16,9 +16,6 @@ const thai = { html
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with my Friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-Thank's and have a grate day!
   
   
   ---
@@ -37,7 +34,7 @@ Thank's and have a grate day!
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+⌚︎ Timezone: Spain/Murcia
 
 💬 Languages: 
 Html                     6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
@@ -56,3 +53,6 @@ Windows                  24 hrs 5 mins       ███████████�
 
 ```
 <!--END_SECTION:waka-->
+  
+  
+  Thank you and have a great day!
